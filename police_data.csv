@@ -1,0 +1,1706 @@
+,first_road_class,road_type,speed_limit,junction_detail,light_conditions,weather_conditions,road_surface_conditions,preciptype,conditions,icon
+0,6,6,20,0,1,9,2,None,Partially cloudy,partly-cloudy-day
+1,6,6,20,0,1,4,1,None,Partially cloudy,partly-cloudy-day
+2,4,6,30,3,4,9,2,None,Partially cloudy,partly-cloudy-day
+3,4,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+4,6,6,20,0,4,7,1,None,Partially cloudy,partly-cloudy-day
+5,3,3,40,0,4,1,2,None,Overcast,cloudy
+6,6,2,20,3,1,1,1,rain,"Rain, Overcast",rain
+7,6,6,20,3,4,1,2,None,Partially cloudy,partly-cloudy-day
+8,3,6,30,3,1,1,2,None,Overcast,cloudy
+9,4,1,20,2,1,9,2,rain,"Rain, Overcast",rain
+10,6,6,30,0,1,1,1,"rain,snow","Snow, Rain, Overcast",rain
+11,3,6,30,0,1,9,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+12,3,2,20,6,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+13,6,2,20,0,1,1,2,None,Partially cloudy,partly-cloudy-day
+14,6,2,20,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+15,3,6,20,3,7,2,2,rain,"Rain, Overcast",rain
+16,3,1,30,1,4,1,1,rain,"Rain, Overcast",rain
+17,4,6,20,3,4,1,1,"rain,snow","Snow, Rain, Overcast",rain
+18,6,6,20,0,4,9,1,rain,"Rain, Overcast",rain
+19,3,6,40,0,1,2,2,rain,"Rain, Partially cloudy",rain
+20,6,6,20,3,4,9,1,rain,"Rain, Partially cloudy",rain
+21,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+22,3,3,30,6,1,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+23,3,1,30,1,1,2,2,rain,"Rain, Overcast",rain
+24,3,6,30,3,5,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+25,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+26,4,6,20,3,7,9,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+27,6,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+28,6,1,20,2,1,1,1,rain,"Rain, Overcast",rain
+29,6,6,20,3,1,4,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+30,3,3,20,0,4,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+31,6,6,20,0,4,1,1,rain,"Rain, Overcast",rain
+32,6,6,20,3,1,1,1,"rain,snow","Snow, Rain, Overcast",rain
+33,6,6,20,0,1,1,1,"rain,snow","Snow, Rain, Overcast",rain
+34,6,6,20,6,4,1,1,rain,"Rain, Partially cloudy",rain
+35,3,6,30,0,4,1,2,rain,"Rain, Partially cloudy",rain
+36,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+37,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+38,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+39,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+40,4,6,30,0,7,1,1,rain,"Rain, Partially cloudy",rain
+41,4,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+42,4,6,30,3,1,2,2,None,Partially cloudy,partly-cloudy-day
+43,3,2,30,6,1,1,1,rain,"Rain, Overcast",rain
+44,3,6,30,3,1,9,1,rain,"Rain, Overcast",rain
+45,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+46,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+47,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+48,3,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+49,3,3,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+50,3,6,20,3,7,1,1,None,Partially cloudy,partly-cloudy-day
+51,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+52,6,2,20,3,7,1,1,None,Partially cloudy,partly-cloudy-day
+53,3,1,30,1,4,1,2,"rain,snow","Snow, Rain, Overcast",rain
+54,4,6,20,6,4,1,1,None,Partially cloudy,partly-cloudy-day
+55,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+56,6,6,20,0,7,1,1,rain,"Rain, Partially cloudy",rain
+57,4,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+58,4,6,20,9,1,1,1,rain,"Rain, Partially cloudy",rain
+59,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+60,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+61,6,9,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+62,3,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+63,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+64,6,6,30,0,1,1,1,rain,"Rain, Overcast",rain
+65,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+66,3,6,20,3,1,1,1,None,Overcast,cloudy
+67,3,6,30,3,4,1,1,"rain,snow","Snow, Rain, Overcast",rain
+68,3,6,20,0,1,1,1,None,Overcast,cloudy
+69,3,3,20,0,1,1,1,None,Overcast,cloudy
+70,3,1,30,1,1,1,1,"rain,snow","Snow, Rain, Overcast",rain
+71,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+72,6,6,30,3,1,1,2,None,Partially cloudy,partly-cloudy-day
+73,4,6,30,6,4,1,1,rain,"Rain, Overcast",rain
+74,6,6,20,0,5,4,2,rain,"Rain, Overcast",rain
+75,4,1,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+76,4,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+77,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+78,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+79,4,1,30,1,4,2,2,rain,"Rain, Overcast",rain
+80,3,6,20,3,5,2,2,rain,"Rain, Overcast",rain
+81,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+82,3,6,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+83,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+84,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+85,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+86,6,9,20,0,1,1,2,rain,"Rain, Partially cloudy",rain
+87,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+88,6,6,20,1,4,1,1,rain,"Rain, Partially cloudy",rain
+89,3,3,30,0,7,2,2,rain,"Rain, Partially cloudy",rain
+90,3,6,20,0,4,2,2,rain,"Rain, Partially cloudy",rain
+91,6,6,20,0,4,3,4,rain,"Rain, Partially cloudy",rain
+92,3,1,30,1,1,2,2,rain,"Rain, Overcast",rain
+93,4,6,20,0,4,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+94,3,1,30,1,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+95,6,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+96,3,6,30,3,7,4,1,rain,"Rain, Overcast",rain
+97,3,1,40,1,1,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+98,6,6,30,8,1,1,1,rain,"Rain, Overcast",rain
+99,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+100,6,6,30,1,4,1,1,None,Partially cloudy,partly-cloudy-day
+101,6,6,20,3,5,1,1,None,Overcast,cloudy
+102,6,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+103,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+104,4,1,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+105,3,3,40,0,7,1,1,None,Clear,clear-day
+106,4,6,30,6,1,2,2,rain,"Rain, Partially cloudy",rain
+107,6,6,20,0,4,2,2,rain,"Rain, Partially cloudy",rain
+108,6,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+109,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+110,6,6,20,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+111,6,6,20,0,1,3,4,rain,"Rain, Partially cloudy",rain
+112,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+113,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+114,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+115,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+116,6,6,20,3,4,1,1,None,Clear,clear-day
+117,6,6,30,3,7,9,1,rain,"Rain, Partially cloudy",rain
+118,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+119,4,6,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+120,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+121,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+122,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+123,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+124,3,6,30,6,7,1,2,rain,"Rain, Partially cloudy",rain
+125,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+126,6,1,30,2,4,1,1,None,Partially cloudy,partly-cloudy-day
+127,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+128,4,6,20,0,4,1,2,None,Partially cloudy,partly-cloudy-day
+129,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+130,4,6,30,3,1,2,2,rain,"Rain, Overcast",rain
+131,3,6,30,6,4,5,2,rain,"Rain, Partially cloudy",rain
+132,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+133,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+134,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+135,6,6,20,3,1,8,1,rain,"Rain, Partially cloudy",rain
+136,4,6,30,1,1,1,1,None,Overcast,cloudy
+137,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+138,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+139,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+140,6,6,30,3,1,1,1,None,Clear,clear-day
+141,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+142,3,6,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+143,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+144,3,6,30,6,1,1,1,None,Clear,clear-day
+145,3,1,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+146,4,6,20,3,1,1,1,None,Clear,clear-day
+147,6,6,20,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+148,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+149,3,6,30,3,1,1,1,None,Clear,clear-day
+150,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+151,6,6,30,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+152,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+153,3,6,30,3,7,1,1,None,Clear,clear-day
+154,4,6,30,3,1,1,1,None,Clear,clear-day
+155,6,2,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+156,6,6,20,0,1,1,1,None,Clear,clear-day
+157,3,3,40,3,4,1,1,rain,"Rain, Overcast",rain
+158,3,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+159,3,3,40,3,4,1,1,rain,"Rain, Partially cloudy",rain
+160,6,6,20,3,1,1,1,None,Overcast,cloudy
+161,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+162,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+163,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+164,3,3,50,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+165,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+166,6,1,20,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+167,4,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+168,3,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+169,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+170,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+171,6,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+172,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+173,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+174,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+175,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+176,6,6,20,8,7,2,2,rain,"Rain, Partially cloudy",rain
+177,4,6,30,6,4,1,1,None,Partially cloudy,partly-cloudy-day
+178,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+179,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+180,6,2,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+181,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+182,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+183,6,6,30,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+184,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+185,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+186,3,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+187,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+188,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+189,3,3,30,6,1,1,1,None,Overcast,cloudy
+190,1,3,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+191,4,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+192,4,6,30,0,1,2,2,rain,"Rain, Partially cloudy",rain
+193,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+194,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+195,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+196,4,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+197,3,6,20,0,1,9,1,rain,"Rain, Partially cloudy",rain
+198,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+199,3,6,30,3,1,2,2,rain,"Rain, Overcast",rain
+200,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+201,3,3,60,9,1,1,1,rain,"Rain, Overcast",rain
+202,6,6,20,3,1,1,1,None,Clear,clear-day
+203,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+204,3,6,20,3,1,9,2,rain,"Rain, Partially cloudy",rain
+205,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+206,3,6,30,0,1,1,1,None,Clear,clear-day
+207,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+208,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+209,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+210,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+211,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+212,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+213,4,6,20,6,1,1,1,None,Clear,clear-day
+214,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+215,6,6,20,3,1,1,1,None,Clear,clear-day
+216,3,3,40,3,1,1,1,None,Clear,clear-day
+217,6,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+218,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+219,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+220,6,6,20,0,1,1,1,None,Clear,clear-day
+221,3,6,20,6,1,5,2,rain,"Rain, Overcast",rain
+222,3,2,30,0,1,2,2,rain,"Rain, Overcast",rain
+223,6,6,20,0,1,1,1,None,Clear,clear-day
+224,6,6,20,6,1,4,1,rain,"Rain, Overcast",rain
+225,6,6,20,3,1,2,2,rain,"Rain, Overcast",rain
+226,3,6,20,3,1,1,1,None,Clear,clear-day
+227,1,7,30,5,1,9,2,rain,"Rain, Partially cloudy",rain
+228,3,6,20,0,1,1,1,None,Clear,clear-day
+229,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+230,6,6,20,0,4,1,1,None,Clear,clear-day
+231,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+232,4,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+233,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+234,6,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+235,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+236,6,6,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+237,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+238,3,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+239,4,6,20,3,1,9,1,None,Partially cloudy,partly-cloudy-day
+240,3,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+241,3,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+242,4,6,30,6,1,4,2,rain,"Rain, Overcast",rain
+243,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+244,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+245,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+246,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+247,4,6,20,6,1,1,2,rain,"Rain, Overcast",rain
+248,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+249,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+250,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+251,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+252,6,1,20,2,1,1,1,None,Partially cloudy,partly-cloudy-day
+253,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+254,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+255,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+256,6,6,20,6,1,1,1,None,Clear,clear-day
+257,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+258,4,6,20,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+259,3,6,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+260,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+261,6,6,20,0,1,9,1,rain,"Rain, Overcast",rain
+262,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+263,1,3,70,5,1,1,1,None,Partially cloudy,partly-cloudy-day
+264,3,1,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+265,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+266,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+267,3,6,30,6,1,1,1,None,Clear,clear-day
+268,4,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+269,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+270,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+271,6,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+272,6,6,30,3,1,1,1,None,Clear,clear-day
+273,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+274,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+275,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+276,6,2,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+277,6,9,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+278,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+279,6,1,20,2,1,1,1,None,Partially cloudy,partly-cloudy-day
+280,3,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+281,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+282,6,9,20,3,1,1,1,rain,"Rain, Overcast",rain
+283,6,6,20,3,1,9,1,None,Partially cloudy,partly-cloudy-day
+284,3,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+285,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+286,3,3,30,3,1,1,1,None,Clear,clear-day
+287,3,6,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+288,6,6,20,6,1,1,2,rain,"Rain, Partially cloudy",rain
+289,3,1,40,1,1,2,2,rain,"Rain, Partially cloudy",rain
+290,3,6,40,8,1,1,1,None,Clear,clear-day
+291,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+292,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+293,6,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+294,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+295,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+296,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+297,3,6,30,3,1,1,1,None,Clear,clear-day
+298,3,3,20,3,1,1,1,None,Clear,clear-day
+299,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+300,3,3,30,6,1,1,1,rain,"Rain, Overcast",rain
+301,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+302,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+303,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+304,3,2,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+305,3,6,20,0,1,9,1,rain,"Rain, Partially cloudy",rain
+306,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+307,3,3,40,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+308,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+309,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+310,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+311,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+312,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+313,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+314,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+315,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+316,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+317,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+318,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+319,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+320,3,6,30,0,1,1,2,rain,"Rain, Partially cloudy",rain
+321,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+322,3,1,20,1,4,1,2,rain,"Rain, Partially cloudy",rain
+323,6,6,20,3,1,1,1,None,Clear,clear-day
+324,3,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+325,6,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+326,4,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+327,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+328,3,3,40,3,1,2,2,None,Clear,clear-day
+329,6,2,20,3,1,1,1,None,Clear,clear-day
+330,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+331,4,6,20,3,1,1,1,None,Clear,clear-day
+332,3,6,20,3,1,1,1,None,Clear,clear-day
+333,6,2,20,3,1,1,1,None,Clear,clear-day
+334,6,6,20,8,1,1,1,None,Clear,clear-day
+335,3,2,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+336,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+337,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+338,3,6,20,3,4,1,2,rain,"Rain, Partially cloudy",rain
+339,3,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+340,4,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+341,6,6,30,0,1,2,2,rain,"Rain, Partially cloudy",rain
+342,3,1,30,1,1,1,1,None,Clear,clear-day
+343,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+344,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+345,6,6,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+346,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+347,3,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+348,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+349,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+350,6,6,20,0,1,5,2,rain,"Rain, Overcast",rain
+351,6,6,30,0,1,9,1,rain,"Rain, Partially cloudy",rain
+352,3,2,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+353,4,6,30,6,1,2,2,rain,"Rain, Partially cloudy",rain
+354,6,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+355,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+356,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+357,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+358,6,6,30,8,1,1,2,rain,"Rain, Partially cloudy",rain
+359,3,1,30,1,1,2,2,rain,"Rain, Overcast",rain
+360,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+361,3,6,20,0,1,1,1,None,Clear,clear-day
+362,4,6,20,3,4,2,2,rain,"Rain, Overcast",rain
+363,1,3,70,0,1,1,1,None,Clear,clear-day
+364,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+365,3,3,40,6,4,1,1,None,Clear,clear-day
+366,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+367,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+368,1,3,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+369,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+370,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+371,3,6,30,3,1,9,2,rain,"Rain, Partially cloudy",rain
+372,3,3,40,0,4,2,2,rain,"Rain, Partially cloudy",rain
+373,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+374,3,6,20,3,1,9,2,rain,"Rain, Partially cloudy",rain
+375,6,2,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+376,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+377,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+378,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+379,6,6,20,3,1,8,1,rain,"Rain, Partially cloudy",rain
+380,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+381,6,6,20,3,1,8,2,rain,"Rain, Partially cloudy",rain
+382,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+383,6,6,30,3,1,8,2,rain,"Rain, Partially cloudy",rain
+384,3,3,40,0,1,4,2,rain,"Rain, Overcast",rain
+385,3,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+386,3,3,40,1,4,1,2,rain,"Rain, Partially cloudy",rain
+387,3,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+388,3,6,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+389,3,6,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+390,3,6,30,0,1,1,2,rain,"Rain, Partially cloudy",rain
+391,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+392,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+393,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+394,6,1,20,2,4,1,1,None,Partially cloudy,partly-cloudy-day
+395,3,1,40,1,1,1,1,rain,"Rain, Partially cloudy",rain
+396,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+397,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+398,6,6,20,6,4,1,1,None,Clear,clear-day
+399,6,2,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+400,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+401,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+402,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+403,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+404,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+405,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+406,3,6,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+407,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+408,6,6,30,3,1,1,1,None,Clear,clear-day
+409,3,6,30,3,1,9,1,rain,"Rain, Partially cloudy",rain
+410,3,2,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+411,4,6,20,3,1,8,2,None,Partially cloudy,partly-cloudy-day
+412,4,6,20,0,1,1,2,rain,"Rain, Partially cloudy",rain
+413,6,6,30,0,4,1,1,None,Clear,clear-day
+414,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+415,4,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+416,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+417,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+418,4,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+419,6,6,20,3,1,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+420,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+421,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+422,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+423,3,3,40,0,4,1,1,rain,"Rain, Partially cloudy",rain
+424,3,6,30,3,4,1,1,rain,"Rain, Overcast",rain
+425,4,6,30,6,4,1,1,None,Overcast,cloudy
+426,3,9,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+427,3,1,30,1,1,8,2,"rain,snow","Snow, Rain, Overcast",rain
+428,1,3,70,0,6,1,1,None,Overcast,cloudy
+429,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+430,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+431,3,6,20,3,1,1,1,None,Overcast,cloudy
+432,3,3,40,6,1,1,1,rain,"Rain, Overcast",rain
+433,6,6,20,0,1,1,1,None,Overcast,cloudy
+434,3,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+435,4,6,20,6,1,1,2,rain,"Rain, Partially cloudy",rain
+436,3,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+437,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+438,6,6,20,0,4,1,1,rain,"Rain, Overcast",rain
+439,6,6,20,0,1,1,1,None,Clear,clear-day
+440,3,2,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+441,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+442,3,1,30,1,1,8,1,rain,"Rain, Overcast",rain
+443,3,6,30,0,1,1,1,rain,"Rain, Overcast",rain
+444,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+445,6,6,20,3,1,1,1,None,Overcast,cloudy
+446,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+447,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+448,3,6,50,0,4,9,2,rain,"Rain, Overcast",rain
+449,3,3,30,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+450,3,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+451,6,6,20,0,4,9,1,None,Partially cloudy,partly-cloudy-day
+452,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+453,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+454,6,6,20,6,1,1,1,None,Clear,clear-day
+455,6,6,20,3,1,1,1,None,Clear,clear-day
+456,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+457,4,6,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+458,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+459,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+460,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+461,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+462,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+463,6,6,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+464,3,1,20,1,4,1,1,None,Partially cloudy,partly-cloudy-day
+465,4,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+466,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+467,3,6,30,3,1,1,2,rain,"Rain, Overcast",rain
+468,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+469,6,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+470,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+471,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+472,6,6,20,0,1,9,1,rain,"Rain, Partially cloudy",rain
+473,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+474,4,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+475,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+476,3,6,30,3,4,9,1,rain,"Rain, Partially cloudy",rain
+477,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+478,3,2,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+479,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+480,3,6,20,6,1,1,1,None,Clear,clear-day
+481,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+482,4,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+483,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+484,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+485,3,6,50,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+486,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+487,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+488,6,6,30,3,4,1,1,None,Overcast,cloudy
+489,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+490,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+491,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+492,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+493,3,1,40,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+494,6,6,20,0,1,9,1,rain,"Rain, Overcast",rain
+495,6,2,20,3,1,1,1,rain,"Rain, Overcast",rain
+496,6,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+497,3,2,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+498,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+499,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+500,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+501,6,6,20,6,1,1,1,rain,"Rain, Overcast",rain
+502,3,2,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+503,6,6,20,3,7,2,2,rain,"Rain, Partially cloudy",rain
+504,4,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+505,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+506,6,6,20,3,1,1,1,None,Clear,clear-day
+507,4,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+508,3,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+509,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+510,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+511,6,9,20,3,1,1,1,rain,"Rain, Overcast",rain
+512,6,6,20,0,1,9,2,rain,"Rain, Partially cloudy",rain
+513,3,6,30,3,1,1,2,rain,"Rain, Partially cloudy",rain
+514,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+515,4,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+516,4,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+517,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+518,6,6,20,6,4,1,2,rain,"Rain, Partially cloudy",rain
+519,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+520,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+521,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+522,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+523,6,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+524,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+525,3,3,40,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+526,4,1,30,1,1,1,2,rain,"Rain, Partially cloudy",rain
+527,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+528,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+529,3,6,30,6,4,2,2,rain,"Rain, Partially cloudy",rain
+530,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+531,6,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+532,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+533,3,6,20,0,4,2,2,None,Partially cloudy,partly-cloudy-day
+534,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+535,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+536,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+537,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+538,6,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+539,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+540,4,1,20,1,1,9,2,rain,"Rain, Partially cloudy",rain
+541,3,2,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+542,6,6,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+543,3,6,30,3,1,1,1,None,Overcast,cloudy
+544,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+545,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+546,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+547,3,3,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+548,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+549,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+550,3,6,20,3,4,9,1,None,Overcast,cloudy
+551,6,6,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+552,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+553,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+554,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+555,6,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+556,3,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+557,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+558,4,6,20,2,1,1,1,rain,"Rain, Overcast",rain
+559,6,6,20,3,1,7,2,rain,"Rain, Overcast",rain
+560,3,6,30,3,1,5,2,rain,"Rain, Partially cloudy",rain
+561,3,6,20,0,4,2,2,rain,"Rain, Overcast",rain
+562,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+563,3,6,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+564,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+565,3,3,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+566,4,6,20,3,4,1,2,rain,"Rain, Partially cloudy",rain
+567,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+568,4,6,30,3,4,2,2,rain,"Rain, Partially cloudy",rain
+569,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+570,4,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+571,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+572,6,6,20,0,4,2,2,rain,"Rain, Partially cloudy",rain
+573,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+574,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+575,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+576,3,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+577,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+578,6,6,30,6,1,2,2,rain,"Rain, Partially cloudy",rain
+579,6,6,20,2,1,1,2,rain,"Rain, Partially cloudy",rain
+580,6,6,20,6,4,1,1,rain,"Rain, Partially cloudy",rain
+581,4,3,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+582,3,6,20,3,4,2,2,rain,"Rain, Overcast",rain
+583,6,2,20,0,1,9,2,rain,"Rain, Partially cloudy",rain
+584,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+585,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+586,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+587,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+588,3,6,20,0,4,2,2,rain,"Rain, Overcast",rain
+589,3,6,20,3,4,2,2,rain,"Rain, Overcast",rain
+590,6,2,20,0,7,1,1,rain,"Rain, Overcast",rain
+591,3,6,30,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+592,6,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+593,4,6,30,3,4,2,2,rain,"Rain, Overcast",rain
+594,3,3,30,3,1,2,2,rain,"Rain, Overcast",rain
+595,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+596,3,2,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+597,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+598,6,6,20,3,4,1,1,None,Overcast,cloudy
+599,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+600,4,6,30,3,4,2,2,None,Overcast,cloudy
+601,6,6,20,3,4,1,1,None,Overcast,cloudy
+602,4,6,20,0,7,1,1,rain,"Rain, Partially cloudy",rain
+603,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+604,3,2,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+605,6,2,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+606,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+607,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+608,6,1,20,2,4,1,1,None,Overcast,cloudy
+609,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+610,3,3,30,3,4,9,1,None,Partially cloudy,partly-cloudy-day
+611,6,6,20,3,4,9,2,rain,"Rain, Partially cloudy",rain
+612,6,6,40,1,4,1,1,rain,"Rain, Partially cloudy",rain
+613,3,6,30,0,4,8,2,rain,"Rain, Partially cloudy",rain
+614,4,6,20,3,1,8,1,rain,"Rain, Partially cloudy",rain
+615,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+616,3,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+617,4,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+618,3,2,20,0,1,1,1,rain,"Rain, Overcast",rain
+619,3,6,20,0,4,9,1,rain,"Rain, Overcast",rain
+620,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+621,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+622,4,6,20,8,1,7,2,rain,"Rain, Partially cloudy",rain
+623,3,7,30,3,4,1,1,None,Clear,clear-day
+624,4,6,20,3,1,7,1,rain,"Rain, Overcast",rain
+625,6,6,20,3,7,1,1,rain,"Rain, Partially cloudy",rain
+626,4,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+627,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+628,3,3,40,7,4,1,1,None,Partially cloudy,partly-cloudy-day
+629,6,6,20,9,1,1,1,rain,"Rain, Partially cloudy",rain
+630,6,6,20,1,1,1,1,rain,"Rain, Partially cloudy",rain
+631,6,6,20,3,1,3,2,rain,"Rain, Partially cloudy",rain
+632,4,6,30,3,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+633,3,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+634,4,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+635,3,6,20,6,1,8,2,rain,"Rain, Partially cloudy",rain
+636,3,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+637,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+638,6,6,20,2,1,2,2,rain,"Rain, Partially cloudy",rain
+639,3,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+640,6,6,30,2,1,1,1,rain,"Rain, Partially cloudy",rain
+641,3,6,30,3,4,9,2,rain,"Rain, Partially cloudy",rain
+642,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+643,3,6,20,6,5,1,1,rain,"Rain, Partially cloudy",rain
+644,3,3,20,1,4,9,2,rain,"Rain, Partially cloudy",rain
+645,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+646,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+647,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+648,3,6,20,6,4,1,1,rain,"Rain, Partially cloudy",rain
+649,3,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+650,3,2,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+651,6,6,30,8,4,7,1,None,Partially cloudy,partly-cloudy-day
+652,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+653,4,6,20,2,4,5,2,rain,"Rain, Partially cloudy",rain
+654,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+655,3,6,30,3,4,2,2,rain,"Rain, Overcast",rain
+656,3,1,40,1,4,1,2,rain,"Rain, Partially cloudy",rain
+657,4,6,20,6,7,9,2,rain,"Rain, Partially cloudy",rain
+658,6,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+659,3,6,30,0,1,9,1,rain,"Rain, Partially cloudy",rain
+660,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+661,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+662,6,6,20,0,4,2,2,rain,"Rain, Overcast",rain
+663,3,6,20,6,1,1,2,rain,"Rain, Overcast",rain
+664,4,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+665,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+666,3,1,30,1,4,1,1,None,Overcast,cloudy
+667,3,3,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+668,6,6,20,0,1,9,1,None,Overcast,cloudy
+669,6,9,40,0,4,9,1,rain,"Rain, Partially cloudy",rain
+670,6,6,20,3,1,8,1,None,Overcast,cloudy
+671,6,6,20,6,1,1,1,None,Clear,clear-day
+672,6,2,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+673,3,1,30,1,4,1,1,None,Overcast,cloudy
+674,3,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+675,3,3,30,1,4,9,1,None,Overcast,cloudy
+676,3,6,40,8,4,1,1,rain,"Rain, Overcast",rain
+677,3,3,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+678,6,2,20,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+679,4,6,20,1,1,2,2,rain,"Rain, Overcast",rain
+680,6,6,20,6,4,1,1,rain,"Rain, Overcast",rain
+681,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+682,3,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+683,6,6,20,2,1,1,1,rain,"Rain, Overcast",rain
+684,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+685,6,6,20,0,1,8,1,rain,"Rain, Overcast",rain
+686,6,1,40,1,4,1,1,rain,"Rain, Partially cloudy",rain
+687,4,6,30,2,1,1,1,None,Overcast,cloudy
+688,3,3,40,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+689,6,6,20,8,4,1,1,rain,"Rain, Partially cloudy",rain
+690,6,6,20,3,4,9,1,rain,"Rain, Overcast",rain
+691,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+692,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+693,6,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+694,3,6,30,3,4,1,1,rain,"Rain, Overcast",rain
+695,4,6,30,3,1,1,1,None,Overcast,cloudy
+696,6,6,20,0,1,1,1,None,Clear,clear-day
+697,6,6,20,3,1,1,1,None,Clear,clear-day
+698,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+699,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+700,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+701,3,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+702,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+703,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+704,4,6,30,1,1,2,2,rain,"Rain, Partially cloudy",rain
+705,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+706,3,2,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+707,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+708,6,6,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+709,3,6,30,3,4,2,3,rain,"Rain, Overcast",rain
+710,3,6,20,3,4,1,2,rain,"Rain, Overcast",rain
+711,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+712,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+713,3,6,20,6,4,1,1,None,Overcast,cloudy
+714,6,6,20,0,4,1,2,None,Overcast,cloudy
+715,4,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+716,3,6,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+717,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+718,6,6,20,0,1,1,2,rain,"Rain, Partially cloudy",rain
+719,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+720,4,6,30,0,4,1,1,None,Overcast,cloudy
+721,1,3,70,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+722,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+723,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+724,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+725,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+726,4,6,20,2,1,1,1,rain,"Rain, Overcast",rain
+727,6,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+728,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+729,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+730,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+731,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+732,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+733,3,6,30,8,4,1,1,None,Partially cloudy,partly-cloudy-day
+734,3,6,20,3,1,1,1,None,Overcast,cloudy
+735,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+736,6,6,30,3,4,1,2,rain,"Rain, Overcast",rain
+737,4,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+738,3,6,40,0,4,5,2,rain,"Rain, Partially cloudy",rain
+739,6,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+740,3,6,30,3,1,1,1,None,Clear,clear-day
+741,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+742,4,6,20,3,4,1,1,None,Overcast,cloudy
+743,3,3,40,0,4,1,1,rain,"Rain, Overcast",rain
+744,3,2,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+745,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+746,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+747,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+748,3,6,30,3,1,1,1,None,Clear,clear-day
+749,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+750,6,6,30,1,4,1,2,rain,"Rain, Overcast",rain
+751,3,1,40,1,4,1,1,rain,"Rain, Partially cloudy",rain
+752,3,6,30,3,4,1,4,None,Partially cloudy,partly-cloudy-day
+753,3,1,30,1,4,2,2,rain,"Rain, Overcast",rain
+754,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+755,4,6,30,3,4,1,2,rain,"Rain, Overcast",rain
+756,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+757,3,6,20,8,1,2,2,rain,"Rain, Partially cloudy",rain
+758,6,6,20,0,1,1,2,rain,"Rain, Partially cloudy",rain
+759,3,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+760,4,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+761,3,2,30,3,4,2,2,rain,"Rain, Partially cloudy",rain
+762,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+763,3,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+764,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+765,3,6,30,8,1,2,2,rain,"Rain, Partially cloudy",rain
+766,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+767,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+768,6,1,30,1,1,1,2,rain,"Rain, Partially cloudy",rain
+769,4,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+770,4,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+771,1,3,70,0,4,1,1,rain,"Rain, Partially cloudy",rain
+772,4,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+773,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+774,3,6,20,3,4,1,2,None,Partially cloudy,partly-cloudy-day
+775,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+776,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+777,3,6,20,0,4,5,2,rain,"Rain, Partially cloudy",rain
+778,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+779,3,3,40,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+780,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+781,6,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+782,3,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+783,6,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+784,4,6,30,0,4,2,2,rain,"Rain, Overcast",rain
+785,4,6,20,6,4,1,2,rain,"Rain, Partially cloudy",rain
+786,4,6,30,8,4,1,1,rain,"Rain, Partially cloudy",rain
+787,1,3,70,0,1,1,2,rain,"Rain, Overcast",rain
+788,6,6,20,0,4,1,2,rain,"Rain, Overcast",rain
+789,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+790,6,6,20,6,4,2,2,rain,"Rain, Overcast",rain
+791,6,6,20,3,4,2,2,rain,"Rain, Overcast",rain
+792,6,6,30,0,1,1,2,rain,"Rain, Partially cloudy",rain
+793,3,3,40,3,4,1,2,rain,"Rain, Partially cloudy",rain
+794,4,6,30,8,1,1,1,None,Overcast,cloudy
+795,4,6,20,3,1,1,1,None,Overcast,cloudy
+796,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+797,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+798,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+799,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+800,4,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+801,6,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+802,3,1,30,1,1,4,1,None,Partially cloudy,partly-cloudy-day
+803,3,6,40,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+804,4,3,20,0,4,9,1,rain,"Rain, Partially cloudy",rain
+805,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+806,3,6,30,3,4,2,2,rain,"Rain, Overcast",rain
+807,3,3,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+808,3,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+809,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+810,3,3,40,3,4,2,2,rain,"Rain, Partially cloudy",rain
+811,3,6,30,3,4,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+812,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+813,4,6,20,3,4,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+814,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+815,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+816,4,2,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+817,6,6,20,8,1,4,2,rain,"Rain, Partially cloudy",rain
+818,6,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+819,6,6,20,3,4,1,2,rain,"Rain, Overcast",rain
+820,6,6,20,3,4,1,2,rain,"Rain, Overcast",rain
+821,3,6,30,3,1,1,2,rain,"Rain, Overcast",rain
+822,4,6,30,3,1,1,1,None,Overcast,cloudy
+823,6,2,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+824,3,3,30,0,1,2,2,rain,"Rain, Partially cloudy",rain
+825,1,3,70,0,6,1,1,None,Partially cloudy,partly-cloudy-day
+826,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+827,4,6,20,3,1,1,2,rain,"Rain, Overcast",rain
+828,4,6,20,3,1,5,2,rain,"Rain, Partially cloudy",rain
+829,4,6,30,0,1,2,2,rain,"Rain, Overcast",rain
+830,3,6,30,6,4,2,2,rain,"Rain, Overcast",rain
+831,4,6,40,0,6,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+832,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+833,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+834,6,6,20,8,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+835,6,6,40,8,1,1,1,rain,"Rain, Partially cloudy",rain
+836,3,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+837,3,6,20,3,1,1,1,rain,Rain,rain
+838,3,6,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+839,3,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+840,3,6,20,3,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+841,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+842,3,6,20,3,4,1,1,None,Overcast,cloudy
+843,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+844,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+845,4,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+846,4,6,20,6,1,1,1,None,Overcast,cloudy
+847,3,2,20,0,4,2,2,rain,"Rain, Partially cloudy",rain
+848,1,3,70,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+849,4,6,20,3,4,1,1,rain,Partially cloudy,partly-cloudy-day
+850,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+851,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+852,4,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+853,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+854,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+855,3,2,30,6,4,1,2,rain,"Rain, Partially cloudy",rain
+856,4,6,20,0,4,1,1,rain,"Rain, Overcast",rain
+857,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+858,4,6,20,3,1,1,1,None,Clear,clear-day
+859,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+860,3,2,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+861,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+862,1,3,40,0,7,1,1,rain,"Rain, Partially cloudy",rain
+863,3,6,20,3,1,1,1,None,Clear,clear-day
+864,3,6,20,3,1,1,1,None,Clear,clear-day
+865,4,6,30,6,4,1,1,rain,"Rain, Overcast",rain
+866,4,6,20,3,1,1,1,None,Clear,clear-day
+867,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+868,3,2,30,3,1,1,1,None,Clear,clear-day
+869,4,6,20,6,1,1,1,None,Clear,clear-day
+870,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+871,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+872,3,6,30,3,1,1,2,None,Partially cloudy,partly-cloudy-day
+873,3,6,20,3,4,1,2,rain,"Rain, Overcast",rain
+874,3,6,30,6,4,9,4,None,Clear,clear-day
+875,1,7,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+876,3,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+877,6,6,20,0,1,9,1,rain,"Rain, Partially cloudy",rain
+878,4,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+879,4,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+880,3,6,20,9,4,1,1,rain,"Rain, Overcast",rain
+881,3,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+882,6,6,20,6,1,1,1,rain,Rain,rain
+883,3,3,20,1,1,2,2,"rain,snow","Snow, Rain",rain
+884,6,6,20,6,1,9,1,rain,"Rain, Partially cloudy",rain
+885,6,6,20,6,1,4,1,rain,Rain,rain
+886,6,6,30,3,1,1,1,rain,Rain,rain
+887,6,2,20,3,1,1,1,rain,Rain,rain
+888,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+889,3,1,40,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+890,3,6,20,0,4,1,1,rain,Rain,rain
+891,6,6,20,0,4,1,1,None,Overcast,cloudy
+892,6,6,20,3,4,1,1,rain,Rain,rain
+893,6,6,30,0,1,1,1,None,Overcast,cloudy
+894,3,3,30,0,4,1,1,rain,Partially cloudy,partly-cloudy-day
+895,3,6,20,8,7,1,1,None,Partially cloudy,partly-cloudy-day
+896,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+897,4,6,20,6,1,1,1,None,Overcast,cloudy
+898,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+899,6,6,30,3,4,1,1,None,Overcast,cloudy
+900,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+901,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+902,6,6,20,3,1,1,1,None,Overcast,cloudy
+903,3,6,20,9,4,9,2,rain,"Rain, Partially cloudy",rain
+904,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+905,6,6,20,3,1,1,1,rain,Rain,rain
+906,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+907,6,6,20,3,1,8,1,rain,"Rain, Overcast",rain
+908,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+909,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+910,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+911,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+912,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+913,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+914,3,6,20,6,1,1,1,rain,"Rain, Overcast",rain
+915,3,6,20,3,4,8,2,rain,"Rain, Partially cloudy",rain
+916,4,6,20,0,4,1,1,None,Overcast,cloudy
+917,4,6,20,8,1,1,1,rain,"Rain, Overcast",rain
+918,6,2,20,9,1,1,1,rain,"Rain, Partially cloudy",rain
+919,6,2,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+920,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+921,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+922,6,6,30,2,1,1,1,rain,"Rain, Partially cloudy",rain
+923,4,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+924,3,7,30,1,4,2,2,rain,"Rain, Partially cloudy",rain
+925,6,6,30,6,1,4,1,rain,"Rain, Partially cloudy",rain
+926,6,6,20,3,4,4,1,rain,"Rain, Overcast",rain
+927,6,2,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+928,3,3,40,1,4,2,2,rain,"Rain, Overcast",rain
+929,6,6,20,3,4,5,2,rain,"Rain, Overcast",rain
+930,6,6,20,1,1,4,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+931,6,6,20,3,1,5,2,rain,"Rain, Partially cloudy",rain
+932,3,3,30,3,4,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+933,3,2,30,3,1,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+934,3,6,20,3,4,1,2,rain,"Rain, Partially cloudy",rain
+935,6,6,20,0,4,1,1,None,Clear,clear-day
+936,6,6,20,2,4,9,2,rain,"Rain, Overcast",rain
+937,6,6,30,0,4,9,2,rain,"Rain, Overcast",rain
+938,6,6,20,3,1,9,2,rain,"Rain, Overcast",rain
+939,4,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+940,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+941,3,6,20,0,4,9,2,rain,"Rain, Overcast",rain
+942,6,6,30,3,4,4,1,rain,"Rain, Partially cloudy",rain
+943,4,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+944,6,6,20,3,4,2,2,None,Clear,clear-day
+945,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+946,3,6,30,6,1,1,1,rain,Rain,rain
+947,3,3,30,3,4,1,2,rain,Rain,rain
+948,6,6,20,3,4,1,1,rain,Partially cloudy,partly-cloudy-day
+949,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+950,3,6,30,6,1,1,2,rain,"Rain, Partially cloudy",rain
+951,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+952,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+953,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+954,6,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+955,3,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+956,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+957,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+958,3,2,20,9,7,1,1,rain,"Rain, Partially cloudy",rain
+959,4,6,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+960,6,6,20,3,1,1,1,None,Clear,clear-day
+961,6,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+962,3,3,30,1,1,1,1,None,Clear,clear-day
+963,3,6,30,0,1,1,1,rain,Clear,clear-day
+964,4,6,20,3,1,1,1,None,Clear,clear-day
+965,6,6,20,3,4,1,1,None,Clear,clear-day
+966,3,1,30,1,1,1,1,None,Clear,clear-day
+967,4,6,20,3,4,1,1,None,Clear,clear-day
+968,6,6,20,3,1,1,1,None,Clear,clear-day
+969,3,3,30,0,1,1,1,None,Clear,clear-day
+970,1,3,70,0,1,1,2,rain,Rain,rain
+971,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+972,3,6,40,3,4,1,1,rain,"Rain, Partially cloudy",rain
+973,3,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+974,6,6,30,3,4,1,1,rain,Rain,rain
+975,3,6,40,0,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+976,3,6,30,0,1,1,1,None,Clear,clear-day
+977,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+978,6,6,20,0,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+979,3,6,20,3,1,9,2,rain,"Rain, Partially cloudy",rain
+980,3,6,20,3,7,1,1,None,Overcast,cloudy
+981,6,2,20,5,1,1,1,rain,"Rain, Partially cloudy",rain
+982,6,6,30,3,4,1,1,rain,Rain,rain
+983,3,6,30,3,4,1,2,None,Overcast,cloudy
+984,3,6,20,0,1,1,1,None,Overcast,cloudy
+985,4,6,20,3,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+986,6,6,20,0,4,9,1,rain,"Rain, Overcast",rain
+987,6,6,20,2,1,1,1,rain,Partially cloudy,partly-cloudy-day
+988,3,2,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+989,6,6,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+990,4,6,20,3,1,1,1,rain,Clear,clear-day
+991,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+992,3,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+993,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+994,3,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+995,3,6,30,3,4,1,1,rain,"Rain, Overcast",rain
+996,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+997,3,3,30,5,1,1,1,rain,Partially cloudy,partly-cloudy-day
+998,4,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+999,6,6,20,3,4,1,1,None,Overcast,cloudy
+1000,3,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1001,4,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1002,6,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1003,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1004,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1005,3,6,30,6,1,9,1,rain,Partially cloudy,partly-cloudy-day
+1006,4,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1007,4,6,20,6,1,1,1,None,Clear,clear-day
+1008,6,2,20,2,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1009,3,6,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1010,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1011,6,6,20,0,1,9,1,None,Partially cloudy,partly-cloudy-day
+1012,3,6,20,8,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1013,6,6,20,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1014,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1015,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1016,3,3,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1017,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1018,6,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1019,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1020,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+1021,4,6,30,3,1,1,1,rain,"Rain, Overcast",rain
+1022,3,1,30,1,1,1,1,rain,"Rain, Overcast",rain
+1023,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1024,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1025,6,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1026,3,2,30,3,1,9,2,rain,"Rain, Partially cloudy",rain
+1027,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1028,4,1,20,1,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1029,4,6,20,2,1,2,2,rain,"Rain, Partially cloudy",rain
+1030,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1031,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1032,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1033,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1034,3,6,30,3,1,9,1,None,Partially cloudy,partly-cloudy-day
+1035,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1036,3,1,30,1,1,9,1,rain,Partially cloudy,partly-cloudy-day
+1037,3,6,20,3,4,5,2,rain,"Rain, Partially cloudy",rain
+1038,3,3,40,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1039,6,2,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1040,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1041,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1042,3,6,30,3,1,9,1,rain,"Rain, Partially cloudy",rain
+1043,3,6,20,3,4,5,2,None,Partially cloudy,partly-cloudy-day
+1044,3,6,30,3,1,1,2,rain,"Rain, Overcast",rain
+1045,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1046,6,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1047,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1048,3,2,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1049,4,6,20,3,4,1,2,rain,Rain,rain
+1050,4,2,30,2,4,2,2,rain,"Rain, Partially cloudy",rain
+1051,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1052,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1053,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1054,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1055,3,6,30,6,4,5,2,rain,"Rain, Overcast",rain
+1056,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1057,3,3,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1058,6,6,20,3,4,1,1,None,Clear,clear-day
+1059,3,2,30,3,1,1,1,rain,Rain,rain
+1060,6,2,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+1061,6,6,30,0,1,1,2,rain,"Rain, Overcast",rain
+1062,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1063,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1064,6,6,20,0,1,1,2,rain,Partially cloudy,partly-cloudy-day
+1065,4,6,20,0,1,1,1,rain,Overcast,cloudy
+1066,3,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1067,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1068,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1069,3,1,20,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1070,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1071,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1072,6,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1073,6,6,20,2,4,1,1,rain,"Rain, Partially cloudy",rain
+1074,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1075,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1076,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1077,4,6,30,0,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1078,3,3,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1079,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1080,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1081,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1082,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1083,3,2,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1084,6,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+1085,3,1,40,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1086,3,6,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1087,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1088,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1089,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1090,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1091,6,6,30,8,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1092,3,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1093,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1094,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1095,4,1,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1096,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1097,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1098,3,6,30,6,1,1,1,None,Clear,clear-day
+1099,3,2,20,3,4,1,1,None,Clear,clear-day
+1100,6,6,20,0,1,1,1,None,Clear,clear-day
+1101,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1102,3,6,30,0,1,8,2,rain,"Rain, Partially cloudy",rain
+1103,3,3,40,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1104,6,6,20,3,1,9,2,rain,"Rain, Partially cloudy",rain
+1105,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1106,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1107,6,1,20,1,1,1,1,rain,Rain,rain
+1108,3,1,20,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1109,3,1,40,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1110,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1111,6,1,20,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1112,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1113,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1114,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1115,4,1,20,2,1,1,1,None,Clear,clear-day
+1116,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1117,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1118,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1119,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1120,6,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1121,3,3,30,5,1,1,1,None,Partially cloudy,partly-cloudy-day
+1122,3,6,20,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+1123,4,6,20,0,1,1,1,None,Clear,clear-day
+1124,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1125,3,1,30,1,1,1,1,None,Clear,clear-day
+1126,6,1,20,2,1,1,1,rain,"Rain, Overcast",rain
+1127,6,6,20,6,1,1,1,None,Clear,clear-day
+1128,6,2,20,0,1,1,1,None,Clear,clear-day
+1129,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1130,6,6,20,3,1,1,1,None,Clear,clear-day
+1131,3,1,30,1,1,1,1,None,Clear,clear-day
+1132,3,2,20,3,1,1,1,None,Clear,clear-day
+1133,3,6,20,0,1,1,1,None,Clear,clear-day
+1134,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1135,3,6,20,3,1,1,1,None,Clear,clear-day
+1136,3,6,20,3,1,1,1,rain,Rain,rain
+1137,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1138,6,6,20,0,1,1,1,rain,Rain,rain
+1139,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1140,6,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1141,6,6,30,8,1,1,1,rain,Rain,rain
+1142,6,2,20,0,1,9,1,rain,"Rain, Partially cloudy",rain
+1143,3,2,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1144,4,6,20,3,1,1,1,None,Clear,clear-day
+1145,6,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1146,3,6,30,3,1,1,1,rain,Rain,rain
+1147,3,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1148,3,6,20,8,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1149,6,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1150,6,6,20,6,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1151,3,6,30,3,4,9,1,None,Partially cloudy,partly-cloudy-day
+1152,4,6,20,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+1153,3,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1154,6,6,20,1,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1155,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1156,3,6,30,0,1,1,1,rain,"Rain, Overcast",rain
+1157,3,6,20,0,1,9,1,rain,Partially cloudy,partly-cloudy-day
+1158,4,1,30,1,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1159,6,2,20,3,1,1,1,rain,"Rain, Overcast",rain
+1160,3,6,30,0,1,1,1,rain,"Rain, Overcast",rain
+1161,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1162,4,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1163,6,6,30,6,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1164,3,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1165,3,6,30,3,1,1,1,None,Clear,clear-day
+1166,4,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1167,3,1,40,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1168,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1169,6,6,20,0,1,1,1,None,Clear,clear-day
+1170,6,1,20,1,1,1,1,None,Clear,clear-day
+1171,6,6,20,3,1,1,1,None,Clear,clear-day
+1172,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1173,6,6,20,0,1,1,1,None,Clear,clear-day
+1174,6,1,30,2,1,1,1,None,Clear,clear-day
+1175,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1176,3,3,40,3,1,1,1,None,Clear,clear-day
+1177,3,3,30,0,1,1,1,None,Clear,clear-day
+1178,6,6,20,0,1,1,1,rain,Rain,rain
+1179,3,6,20,0,4,1,1,rain,Rain,rain
+1180,4,6,30,0,4,1,1,None,Clear,clear-day
+1181,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1182,4,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1183,6,6,20,0,1,1,1,None,Clear,clear-day
+1184,4,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1185,3,2,30,0,1,9,2,rain,"Rain, Partially cloudy",rain
+1186,1,3,70,0,1,1,1,rain,"Rain, Overcast",rain
+1187,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1188,6,6,20,8,1,1,1,rain,"Rain, Overcast",rain
+1189,3,6,50,8,4,8,2,rain,"Rain, Overcast",rain
+1190,3,3,40,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1191,3,6,20,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+1192,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+1193,6,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1194,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1195,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1196,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1197,4,1,30,2,1,1,1,rain,"Rain, Partially cloudy",rain
+1198,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1199,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1200,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1201,3,6,20,3,1,9,1,None,Partially cloudy,partly-cloudy-day
+1202,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1203,4,6,30,0,1,9,1,rain,"Rain, Partially cloudy",rain
+1204,6,6,20,0,4,2,2,rain,"Rain, Partially cloudy",rain
+1205,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1206,3,6,20,0,1,8,2,rain,"Rain, Partially cloudy",rain
+1207,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1208,4,1,20,2,1,9,2,rain,"Rain, Partially cloudy",rain
+1209,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1210,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1211,6,1,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+1212,4,6,30,3,1,1,1,rain,Clear,clear-day
+1213,6,2,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1214,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1215,3,6,40,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1216,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1217,4,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1218,6,6,20,0,1,2,2,rain,"Rain, Partially cloudy",rain
+1219,6,6,20,0,4,1,1,rain,Clear,clear-day
+1220,3,6,40,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1221,3,2,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1222,6,6,20,3,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+1223,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1224,4,6,20,3,1,1,1,None,Clear,clear-day
+1225,3,6,30,3,1,1,1,None,Clear,clear-day
+1226,3,6,20,6,4,1,1,None,Partially cloudy,partly-cloudy-day
+1227,6,6,20,3,4,2,2,rain,"Rain, Overcast",rain
+1228,6,2,20,3,1,1,1,rain,"Rain, Overcast",rain
+1229,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1230,3,6,30,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+1231,3,6,40,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1232,3,6,20,6,1,1,1,None,Partially cloudy,partly-cloudy-day
+1233,6,6,20,0,1,1,1,rain,Clear,clear-day
+1234,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1235,4,1,20,2,4,1,1,rain,"Rain, Partially cloudy",rain
+1236,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1237,3,7,40,5,1,1,1,None,Clear,clear-day
+1238,3,6,20,0,1,1,1,rain,Clear,clear-day
+1239,6,6,30,3,1,1,1,None,Clear,clear-day
+1240,6,6,20,3,1,1,1,None,Clear,clear-day
+1241,6,6,20,3,1,1,1,None,Clear,clear-day
+1242,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1243,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1244,3,3,40,3,1,8,1,rain,"Rain, Partially cloudy",rain
+1245,3,1,30,1,1,2,2,rain,"Rain, Partially cloudy",rain
+1246,6,6,20,3,4,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+1247,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1248,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1249,3,6,20,3,1,1,1,rain,Clear,clear-day
+1250,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1251,4,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1252,1,3,70,0,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+1253,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1254,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1255,4,6,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1256,3,1,20,1,4,1,1,rain,"Rain, Partially cloudy",rain
+1257,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+1258,6,2,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1259,3,6,20,0,4,8,2,rain,"Rain, Partially cloudy",rain
+1260,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1261,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1262,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1263,6,6,20,3,1,1,1,None,Overcast,cloudy
+1264,3,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1265,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1266,4,6,20,0,4,5,2,rain,"Rain, Partially cloudy",rain
+1267,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1268,1,7,70,3,1,1,1,rain,"Rain, Overcast",rain
+1269,3,2,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1270,6,2,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1271,3,6,20,0,1,1,1,None,Clear,clear-day
+1272,4,6,20,0,1,1,1,rain,Rain,rain
+1273,3,6,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1274,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1275,6,6,20,6,4,1,2,rain,"Rain, Partially cloudy",rain
+1276,3,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1277,3,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+1278,4,6,20,9,1,1,1,rain,"Rain, Partially cloudy",rain
+1279,3,2,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1280,4,1,30,1,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1281,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1282,6,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1283,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1284,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1285,3,3,30,0,4,1,1,rain,Rain,rain
+1286,3,2,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1287,3,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1288,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1289,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1290,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1291,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1292,6,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1293,6,1,20,2,1,1,1,rain,"Rain, Overcast",rain
+1294,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1295,3,3,30,3,1,1,1,rain,"Rain, Overcast",rain
+1296,3,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1297,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1298,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1299,4,1,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+1300,4,6,20,3,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1301,6,6,30,0,1,2,2,rain,"Rain, Partially cloudy",rain
+1302,6,6,20,6,4,1,1,rain,"Rain, Partially cloudy",rain
+1303,6,6,20,6,4,1,1,rain,"Rain, Partially cloudy",rain
+1304,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1305,6,6,30,3,1,9,1,rain,"Rain, Partially cloudy",rain
+1306,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1307,3,2,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1308,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1309,3,3,30,0,1,2,2,None,Partially cloudy,partly-cloudy-day
+1310,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1311,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1312,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1313,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1314,3,3,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1315,3,2,20,0,4,9,1,rain,"Rain, Partially cloudy",rain
+1316,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1317,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1318,3,1,30,1,4,2,2,rain,"Rain, Partially cloudy",rain
+1319,6,1,30,1,1,2,2,rain,"Rain, Partially cloudy",rain
+1320,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1321,3,6,20,0,1,1,2,rain,"Rain, Partially cloudy",rain
+1322,3,1,30,1,1,9,1,rain,"Rain, Partially cloudy",rain
+1323,6,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1324,3,3,40,0,1,4,1,rain,"Rain, Partially cloudy",rain
+1325,4,6,30,6,1,2,2,rain,"Rain, Partially cloudy",rain
+1326,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1327,3,3,30,0,1,7,1,rain,"Rain, Partially cloudy",rain
+1328,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1329,3,1,20,1,4,5,2,rain,"Rain, Partially cloudy",rain
+1330,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1331,3,6,30,0,1,4,1,rain,"Rain, Partially cloudy",rain
+1332,6,6,20,8,1,8,1,rain,"Rain, Partially cloudy",rain
+1333,4,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+1334,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1335,3,6,20,0,4,5,2,rain,"Rain, Partially cloudy",rain
+1336,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1337,6,2,20,0,1,9,1,rain,"Rain, Partially cloudy",rain
+1338,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1339,6,2,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1340,4,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1341,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1342,3,2,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1343,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1344,3,6,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1345,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1346,3,2,30,9,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1347,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1348,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1349,3,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+1350,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1351,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1352,3,6,20,0,4,9,1,rain,"Rain, Partially cloudy",rain
+1353,4,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1354,1,3,40,0,1,1,1,rain,Overcast,cloudy
+1355,3,3,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1356,6,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1357,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1358,3,6,30,3,1,9,2,rain,"Rain, Partially cloudy",rain
+1359,3,2,30,3,4,1,1,rain,Rain,rain
+1360,3,3,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1361,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1362,3,6,20,0,1,1,1,None,Clear,clear-day
+1363,6,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1364,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1365,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1366,6,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1367,4,6,20,3,1,9,2,rain,"Rain, Partially cloudy",rain
+1368,6,6,40,0,4,2,2,rain,Rain,rain
+1369,3,6,20,3,1,1,1,rain,Rain,rain
+1370,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1371,6,2,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1372,3,6,20,0,4,2,2,rain,"Rain, Partially cloudy",rain
+1373,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1374,3,6,30,3,4,2,2,rain,"Rain, Partially cloudy",rain
+1375,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1376,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1377,3,6,20,3,4,9,1,rain,"Rain, Partially cloudy",rain
+1378,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1379,4,6,20,3,4,1,1,None,Clear,clear-day
+1380,3,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+1381,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1382,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1383,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1384,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1385,4,6,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+1386,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1387,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1388,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1389,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1390,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1391,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1392,3,3,30,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1393,3,1,30,1,1,1,1,rain,Rain,rain
+1394,3,6,30,6,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1395,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1396,6,6,20,3,1,9,1,rain,"Rain, Partially cloudy",rain
+1397,6,6,20,3,1,1,1,None,Clear,clear-day
+1398,3,3,30,6,4,9,1,rain,Overcast,cloudy
+1399,3,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+1400,6,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1401,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1402,3,6,30,0,1,2,2,rain,"Rain, Partially cloudy",rain
+1403,4,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1404,3,1,30,1,1,1,1,None,Clear,clear-day
+1405,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1406,3,6,20,0,4,9,1,rain,"Rain, Partially cloudy",rain
+1407,3,6,30,3,1,1,1,None,Clear,clear-day
+1408,4,6,30,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+1409,6,6,40,0,6,1,2,rain,"Rain, Partially cloudy",rain
+1410,3,6,40,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1411,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1412,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1413,6,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+1414,6,6,40,6,1,1,1,None,Clear,clear-day
+1415,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1416,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1417,3,6,30,3,4,7,1,rain,"Rain, Partially cloudy",rain
+1418,3,6,30,6,4,1,1,rain,"Rain, Overcast",rain
+1419,6,6,20,3,1,1,1,"rain,snow","Snow, Rain, Overcast",rain
+1420,4,1,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1421,4,2,20,3,4,1,1,rain,"Rain, Overcast",rain
+1422,6,6,40,0,6,9,1,rain,"Rain, Overcast",rain
+1423,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1424,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1425,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1426,4,6,20,3,4,9,2,rain,"Rain, Overcast",rain
+1427,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1428,3,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1429,3,2,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1430,6,1,20,1,4,9,1,rain,Rain,rain
+1431,3,6,20,3,1,1,1,rain,Rain,rain
+1432,3,1,20,1,1,1,1,rain,Rain,rain
+1433,3,6,30,0,1,9,1,rain,Rain,rain
+1434,6,1,30,2,4,1,1,None,Partially cloudy,partly-cloudy-day
+1435,3,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1436,6,6,20,8,1,1,4,rain,Rain,rain
+1437,6,6,20,3,1,9,1,None,Partially cloudy,partly-cloudy-day
+1438,3,3,30,8,4,1,1,None,Partially cloudy,partly-cloudy-day
+1439,3,6,30,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1440,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+1441,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1442,3,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1443,6,6,20,0,4,8,1,None,Clear,clear-day
+1444,3,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1445,3,6,30,3,1,1,2,rain,"Rain, Partially cloudy",rain
+1446,4,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1447,6,6,20,0,1,1,1,None,Clear,clear-day
+1448,4,6,20,3,1,1,1,None,Clear,clear-day
+1449,6,6,20,3,4,1,1,None,Clear,clear-day
+1450,6,6,20,0,1,1,1,None,Clear,clear-day
+1451,6,6,20,3,1,1,1,None,Clear,clear-day
+1452,6,6,20,0,4,8,1,snow,Overcast,cloudy
+1453,3,6,20,6,4,1,1,None,Partially cloudy,partly-cloudy-day
+1454,6,6,20,3,4,1,2,rain,"Rain, Partially cloudy",rain
+1455,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1456,3,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1457,3,2,20,3,4,1,1,None,Clear,clear-day
+1458,3,6,20,6,1,1,1,None,Clear,clear-day
+1459,4,6,20,0,1,4,2,None,Clear,clear-day
+1460,3,6,20,3,1,1,1,None,Clear,clear-day
+1461,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1462,6,6,20,3,4,9,2,rain,"Rain, Overcast",rain
+1463,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1464,6,6,20,6,1,9,2,rain,"Rain, Partially cloudy",rain
+1465,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1466,3,1,30,1,4,1,1,rain,"Rain, Partially cloudy",rain
+1467,6,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1468,4,1,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+1469,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1470,6,6,20,2,1,1,1,rain,"Rain, Partially cloudy",rain
+1471,3,6,50,0,4,2,2,rain,"Rain, Partially cloudy",rain
+1472,3,6,30,0,4,1,1,rain,"Rain, Overcast",rain
+1473,6,2,20,5,1,1,1,rain,"Rain, Partially cloudy",rain
+1474,4,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1475,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1476,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1477,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1478,3,6,30,3,4,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+1479,3,1,30,1,4,1,2,rain,"Rain, Overcast",rain
+1480,6,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+1481,6,6,30,3,6,1,2,rain,"Rain, Overcast",rain
+1482,6,6,30,0,4,1,2,rain,Rain,rain
+1483,4,6,30,9,1,1,2,"rain,snow","Snow, Rain",rain
+1484,6,6,20,0,4,1,1,rain,Rain,rain
+1485,6,6,30,3,1,1,1,rain,Rain,rain
+1486,3,6,40,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1487,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1488,3,6,60,0,4,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+1489,6,6,20,3,1,1,2,None,Partially cloudy,partly-cloudy-day
+1490,3,6,30,0,1,1,2,None,Overcast,cloudy
+1491,3,6,20,0,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+1492,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1493,6,6,20,3,4,1,1,rain,"Rain, Overcast",rain
+1494,6,6,30,3,1,1,1,None,Overcast,cloudy
+1495,6,9,30,0,4,2,2,rain,"Rain, Partially cloudy",rain
+1496,6,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1497,6,6,20,0,1,1,1,None,Overcast,cloudy
+1498,3,6,30,0,4,1,1,None,Clear,clear-day
+1499,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1500,3,6,30,0,1,1,1,None,Clear,clear-day
+1501,4,6,20,3,4,4,1,rain,"Rain, Partially cloudy",rain
+1502,3,6,20,3,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1503,6,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1504,4,6,30,3,4,4,2,rain,"Rain, Partially cloudy",rain
+1505,6,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1506,6,6,20,0,4,1,2,rain,"Rain, Partially cloudy",rain
+1507,1,3,70,0,6,1,1,rain,"Rain, Partially cloudy",rain
+1508,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1509,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1510,3,6,30,0,1,2,2,rain,"Rain, Partially cloudy",rain
+1511,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1512,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1513,6,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1514,4,6,30,3,4,5,2,rain,"Rain, Overcast",rain
+1515,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1516,4,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1517,3,3,40,3,1,1,2,rain,"Rain, Partially cloudy",rain
+1518,6,6,20,0,1,1,2,rain,"Rain, Partially cloudy",rain
+1519,3,6,40,6,4,5,2,rain,"Rain, Partially cloudy",rain
+1520,6,6,30,0,4,4,1,rain,"Rain, Partially cloudy",rain
+1521,3,6,30,6,1,1,1,"rain,snow","Snow, Rain, Partially cloudy",rain
+1522,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1523,6,6,20,0,1,1,1,rain,Rain,rain
+1524,6,6,30,0,4,1,1,rain,"Rain, Overcast",rain
+1525,3,6,30,0,1,1,2,rain,"Rain, Overcast",rain
+1526,6,6,20,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1527,3,6,40,0,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1528,4,6,30,3,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1529,6,6,20,3,4,2,2,rain,"Rain, Partially cloudy",rain
+1530,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1531,4,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1532,3,6,30,0,7,2,2,rain,"Rain, Partially cloudy",rain
+1533,6,6,30,3,4,1,1,None,Clear,clear-day
+1534,3,6,30,0,1,1,1,None,Clear,clear-day
+1535,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1536,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1537,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1538,6,6,20,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1539,3,6,30,6,4,2,2,None,Partially cloudy,partly-cloudy-day
+1540,3,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1541,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1542,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1543,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1544,6,6,20,3,1,1,1,rain,Overcast,cloudy
+1545,6,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1546,3,6,30,9,1,1,1,rain,"Rain, Partially cloudy",rain
+1547,6,1,20,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1548,4,6,30,6,4,1,1,None,Partially cloudy,partly-cloudy-day
+1549,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1550,3,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1551,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1552,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1553,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1554,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1555,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1556,3,1,30,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1557,4,1,30,2,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1558,6,6,30,5,1,1,1,None,Partially cloudy,partly-cloudy-day
+1559,3,6,20,0,1,1,1,None,Clear,clear-day
+1560,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1561,6,6,30,2,1,1,1,rain,"Rain, Partially cloudy",rain
+1562,3,6,20,9,1,1,1,None,Clear,clear-day
+1563,6,6,20,3,1,4,2,rain,"Rain, Partially cloudy",rain
+1564,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1565,6,6,30,3,1,1,1,None,Clear,clear-day
+1566,3,6,30,0,1,1,1,None,Clear,clear-day
+1567,3,1,30,1,1,1,1,None,Clear,clear-day
+1568,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1569,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1570,6,6,30,0,1,1,1,None,Clear,clear-day
+1571,5,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1572,3,6,20,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+1573,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1574,3,6,30,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1575,3,6,30,3,1,1,1,None,Clear,clear-day
+1576,5,6,20,3,5,1,1,None,Clear,clear-day
+1577,6,6,30,3,1,1,1,None,Clear,clear-day
+1578,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1579,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1580,6,6,30,1,1,1,1,None,Partially cloudy,partly-cloudy-day
+1581,6,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1582,6,6,20,6,1,1,1,None,Clear,clear-day
+1583,6,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1584,6,6,30,3,1,1,1,None,Clear,clear-day
+1585,6,6,20,0,1,1,1,rain,Rain,rain
+1586,3,6,30,6,1,1,1,None,Clear,clear-day
+1587,6,6,20,0,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1588,3,3,40,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1589,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1590,3,6,30,3,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1591,6,6,30,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1592,3,6,40,0,4,1,1,None,Partially cloudy,partly-cloudy-day
+1593,6,6,30,0,4,1,1,rain,Partially cloudy,partly-cloudy-day
+1594,3,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1595,4,6,30,0,1,1,1,None,Clear,clear-day
+1596,3,6,30,3,4,9,1,None,Clear,clear-day
+1597,6,6,20,3,4,1,1,None,Clear,clear-day
+1598,6,3,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1599,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1600,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1601,3,6,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1602,6,6,20,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1603,6,6,30,0,1,1,1,None,Clear,clear-day
+1604,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1605,6,6,30,0,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1606,3,6,30,9,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1607,1,3,70,0,1,1,1,None,Partially cloudy,partly-cloudy-day
+1608,3,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1609,6,6,30,3,7,2,2,"rain,snow","Snow, Rain, Overcast",snow
+1610,6,6,20,0,1,1,1,None,Clear,clear-day
+1611,6,6,30,1,1,1,1,None,Clear,clear-day
+1612,6,6,20,6,1,1,1,None,Clear,clear-day
+1613,6,6,20,0,1,1,1,None,Clear,clear-day
+1614,6,6,20,9,1,1,1,rain,"Rain, Partially cloudy",rain
+1615,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1616,3,6,40,0,1,1,2,rain,"Rain, Overcast",rain
+1617,6,6,20,6,4,1,1,rain,"Rain, Overcast",rain
+1618,4,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1619,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1620,4,6,30,6,1,1,1,rain,Partially cloudy,partly-cloudy-day
+1621,6,6,30,3,4,1,1,rain,"Rain, Overcast",rain
+1622,4,6,20,6,4,1,1,None,Partially cloudy,partly-cloudy-day
+1623,4,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1624,6,6,20,3,1,9,1,None,Partially cloudy,partly-cloudy-day
+1625,3,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1626,3,3,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1627,3,6,30,0,1,1,1,rain,Clear,clear-day
+1628,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1629,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1630,3,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1631,6,6,20,3,1,1,1,None,Clear,clear-day
+1632,4,6,20,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1633,1,7,30,3,4,1,1,None,Clear,clear-day
+1634,3,3,30,3,1,1,1,None,Partially cloudy,partly-cloudy-day
+1635,4,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1636,3,2,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1637,3,3,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1638,3,6,30,0,1,1,2,rain,"Rain, Partially cloudy",rain
+1639,3,6,30,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1640,6,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1641,6,6,30,8,1,5,2,rain,"Rain, Partially cloudy",rain
+1642,6,6,20,3,4,1,2,rain,"Rain, Partially cloudy",rain
+1643,6,6,30,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1644,6,6,20,6,4,1,1,rain,"Rain, Overcast",rain
+1645,6,6,20,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1646,3,6,30,3,4,1,1,rain,Rain,rain
+1647,3,6,20,0,4,1,1,rain,Rain,rain
+1648,6,6,30,6,4,1,1,rain,Rain,rain
+1649,6,6,30,6,4,1,1,rain,"Rain, Partially cloudy",rain
+1650,6,6,30,0,4,2,2,rain,"Rain, Partially cloudy",rain
+1651,6,6,20,3,4,1,2,rain,"Rain, Partially cloudy",rain
+1652,6,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1653,6,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1654,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1655,6,6,20,8,1,1,1,rain,"Rain, Partially cloudy",rain
+1656,3,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1657,4,6,20,6,4,1,1,rain,"Rain, Partially cloudy",rain
+1658,3,2,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1659,3,6,20,3,1,1,2,rain,"Rain, Partially cloudy",rain
+1660,3,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1661,6,6,30,3,1,1,2,rain,"Rain, Partially cloudy",rain
+1662,6,1,20,1,1,1,1,rain,"Rain, Partially cloudy",rain
+1663,4,6,20,8,4,2,2,rain,"Rain, Partially cloudy",rain
+1664,4,1,30,1,1,8,1,rain,"Rain, Partially cloudy",rain
+1665,3,6,30,3,4,2,2,rain,"Rain, Partially cloudy",rain
+1666,3,6,30,3,1,1,2,rain,"Rain, Partially cloudy",rain
+1667,3,6,30,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1668,6,6,20,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1669,3,6,30,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1670,3,6,40,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1671,6,6,30,0,4,1,1,rain,Overcast,cloudy
+1672,3,6,20,3,4,1,1,None,Partially cloudy,partly-cloudy-day
+1673,6,6,20,6,5,1,2,rain,"Rain, Partially cloudy",rain
+1674,3,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1675,6,6,30,0,1,1,1,None,Clear,clear-day
+1676,6,6,30,0,4,1,1,rain,"Rain, Partially cloudy",rain
+1677,4,6,20,0,1,1,1,rain,"Rain, Partially cloudy",rain
+1678,3,6,20,3,1,2,2,rain,"Rain, Partially cloudy",rain
+1679,4,6,20,3,4,1,1,rain,"Rain, Partially cloudy",rain
+1680,3,6,30,3,4,5,2,rain,"Rain, Partially cloudy",rain
+1681,3,6,20,3,1,1,1,rain,"Rain, Overcast",rain
+1682,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1683,4,6,30,8,1,1,1,None,Partially cloudy,partly-cloudy-day
+1684,4,6,30,6,4,1,1,"rain,snow","Snow, Rain, Overcast",rain
+1685,3,6,20,0,1,1,1,rain,"Rain, Overcast",rain
+1686,1,7,70,0,4,1,1,rain,"Rain, Overcast",rain
+1687,3,6,30,0,4,1,1,rain,Rain,rain
+1688,3,1,30,1,1,1,1,rain,Rain,rain
+1689,3,1,30,1,4,1,2,None,Partially cloudy,partly-cloudy-day
+1690,3,6,30,0,1,1,2,None,Clear,clear-day
+1691,3,6,20,3,4,1,1,None,Clear,clear-day
+1692,6,6,40,0,1,2,2,rain,"Rain, Partially cloudy",rain
+1693,3,6,20,3,1,1,1,rain,"Rain, Partially cloudy",rain
+1694,6,6,30,6,1,1,1,rain,"Rain, Partially cloudy",rain
+1695,6,6,20,6,4,1,2,snow,Overcast,cloudy
+1696,4,6,30,3,1,1,4,None,Partially cloudy,partly-cloudy-day
+1697,3,3,40,0,1,9,4,None,Clear,clear-day
+1698,4,6,20,3,1,1,1,rain,Rain,rain
+1699,3,6,30,3,4,2,2,rain,"Rain, Partially cloudy",rain
+1700,6,6,30,3,6,1,1,None,Clear,clear-day
+1701,6,6,30,3,4,4,2,rain,"Rain, Partially cloudy",rain
+1702,6,6,40,0,1,1,2,rain,"Rain, Partially cloudy",rain
+1703,3,6,30,3,4,2,2,"rain,snow","Snow, Rain, Partially cloudy",rain
+1704,6,6,30,3,4,1,2,"rain,snow","Snow, Rain, Overcast",snow
